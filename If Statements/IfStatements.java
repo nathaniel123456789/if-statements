@@ -22,7 +22,7 @@ public class IfStatements
         if (d == -8 && a == 4)
             System.out.println("SUCCESS");
             else 
-                System.ou.println("FAILURE");
+                System.out.println("FAILURE");
     }
     
     
